@@ -17,9 +17,10 @@ This is a simple Snake game implemented using Pygame.This game contains a snake 
 -   Game Over Screen
 
 # Installation
-To install this game, you need to have Python and Pygame installed on your computer. You can install Pygame using pip:
+```To install this game, you need to have Python and Pygame installed on your computer. You can install Pygame using pip:```
     ``pip install pygame``
 
-![Snake-game](/img/snake-game.png)
 
-![Snake-game-menu](/img/snake-game-menu.png)
+![Snake-game](/pygame/snake-game//img/snake-game.png)
+
+![Snake-game-menu](/pygame/snake-game/img/snake-game-menu.png)
