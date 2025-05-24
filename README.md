@@ -1,5 +1,5 @@
 # Python
-Learning the python form start
+Learning the python form different projects
 
 ## Refrence:
 [Python Crash Course: A Hands-On, Project-Based Introduction to Programming ](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
